@@ -11,7 +11,7 @@ A simple full-stack application that allows users to search inventory items usin
 ### Frontend
 - HTML
 - CSS
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ### Backend
 - Node.js
