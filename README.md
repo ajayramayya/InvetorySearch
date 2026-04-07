@@ -38,7 +38,7 @@ A simple full-stack application that allows users to search inventory items usin
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/ajayramayya/InvetorySearch.git
 cd inventory-search
 
 
